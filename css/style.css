@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.flex-container{
+    width: 960px;
+    margin: 0 auto;
+    border: 9px brown solid;
+    display: flex;
+    /* flex-direction: column-reverse; */
+    /* flex-direction:row-reverse; */
+}
+.flex-item{
+    background-color: skyblue;
+    border: 2px solid red;
+    width: 100px;
+
+}
